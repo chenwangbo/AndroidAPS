@@ -49,6 +49,7 @@ DEV:
 You need to get the secerts of the key store file to sign your application. For security reason, all of the passwords are NOT in this repoitory.
 **It's really recommanded that you can sign your apk file with your own key store file after learning some Android knowledge.**
 Please follow these steps:
+
 * Fork this repository.
 * Scan the below QR code and subscribe "一型码农Lex" WeChat Channel.  
 <a href="/Documentation/wechat_qr.png"><img src="/Documentation/wechat_qr.png?raw=true" alt="WeChat Channel QR code" width="340"></a>  
